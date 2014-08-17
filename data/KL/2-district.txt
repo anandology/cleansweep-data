@@ -1,0 +1,14 @@
+KL/ZN01	KL/DT01	Kasargod
+KL/ZN01	KL/DT02	Kannur
+KL/ZN01	KL/DT03	Wayanad
+KL/ZN01	KL/DT04	Kozhikode
+KL/ZN01	KL/DT05	Malappuram
+KL/ZN02	KL/DT06	Palakkad
+KL/ZN02	KL/DT07	Thrissur
+KL/ZN02	KL/DT08	Ernakulam
+KL/ZN02	KL/DT09	Idukki
+KL/ZN02	KL/DT10	Kottayam
+KL/ZN03	KL/DT11	Alappuzha
+KL/ZN03	KL/DT12	Pathanamthitta
+KL/ZN03	KL/DT13	Kollam
+KL/ZN03	KL/DT14 Thiruvananthapuram

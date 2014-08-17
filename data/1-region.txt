@@ -1,0 +1,5 @@
+INDIA	RG01     North India
+INDIA	RG02     North East India
+INDIA	RG03     South India
+INDIA	RG04     East India
+INDIA	RG05     West India
