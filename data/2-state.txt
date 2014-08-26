@@ -1,2 +1,2 @@
-R01	MP	Madhya Pradesh
+RG01	MP	Madhya Pradesh
 RG03	KL	Kerala
