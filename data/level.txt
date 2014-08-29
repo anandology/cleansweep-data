@@ -5,5 +5,5 @@ ZONE	Zone
 DISTRICT	District
 AC	Assembly Constituency
 WARD	Ward
-PC	Polling Center
+PX	Polling Center
 PB	Polling Booth
