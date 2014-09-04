@@ -1,0 +1,70 @@
+DL	DL/AC001	AC001 - Narela
+DL	DL/AC002	AC002 - Burari
+DL	DL/AC003	AC003 - Timarpur
+DL	DL/AC004	AC004 - Adarsh Nagar
+DL	DL/AC005	AC005 - Badli
+DL	DL/AC006	AC006 - Rithala
+DL	DL/AC007	AC007 - Bawana
+DL	DL/AC008	AC008 - Mundka
+DL	DL/AC009	AC009 - Kirari
+DL	DL/AC010	AC010 - Sultan Pur Majra
+DL	DL/AC011	AC011 - Nangloi Jat
+DL	DL/AC012	AC012 - Mangol Puri
+DL	DL/AC013	AC013 - Rohini
+DL	DL/AC014	AC014 - Shalimar Bagh
+DL	DL/AC015	AC015 - Shakur Basti
+DL	DL/AC016	AC016 - Tri Nagar
+DL	DL/AC017	AC017 - Wazirpur
+DL	DL/AC018	AC018 - Model Town
+DL	DL/AC019	AC019 - Sadar Bazar
+DL	DL/AC020	AC020 - Chandni Chowk
+DL	DL/AC021	AC021 - Matia Mahal
+DL	DL/AC022	AC022 - Ballimaran
+DL	DL/AC023	AC023 - Karol Bagh
+DL	DL/AC024	AC024 - Patel Nagar
+DL	DL/AC025	AC025 - Moti Nagar
+DL	DL/AC026	AC026 - Madipur
+DL	DL/AC027	AC027 - Rajouri Garden
+DL	DL/AC028	AC028 - Hari Nagar
+DL	DL/AC029	AC029 - Tilak Nagar
+DL	DL/AC030	AC030 - Janakpuri
+DL	DL/AC031	AC031 - Vikaspuri
+DL	DL/AC032	AC032 - Uttam Nagar
+DL	DL/AC033	AC033 - Dwarka
+DL	DL/AC034	AC034 - Matiala
+DL	DL/AC035	AC035 - Najafgarh
+DL	DL/AC036	AC036 - Bijwasan
+DL	DL/AC037	AC037 - Palam
+DL	DL/AC038	AC038 - Delhi Cantt
+DL	DL/AC039	AC039 - Rajinder Nagar
+DL	DL/AC040	AC040 - New Delhi
+DL	DL/AC041	AC041 - Jangpura
+DL	DL/AC042	AC042 - Kasturba Nagar
+DL	DL/AC043	AC043 - Malviya Nagar
+DL	DL/AC044	AC044 - R.K. Puram
+DL	DL/AC045	AC045 - Mehrauli
+DL	DL/AC046	AC046 - Chhatarpur
+DL	DL/AC047	AC047 - Deoli
+DL	DL/AC048	AC048 - Ambedkar Nagar
+DL	DL/AC049	AC049 - Sangam Vihar
+DL	DL/AC050	AC050 - Greater Kailash
+DL	DL/AC051	AC051 - Kalkaji
+DL	DL/AC052	AC052 - Tughlakabad
+DL	DL/AC053	AC053 - Badarpur
+DL	DL/AC054	AC054 - Okhla
+DL	DL/AC055	AC055 - Trilokpuri
+DL	DL/AC056	AC056 - Kondli
+DL	DL/AC057	AC057 - Patparganj
+DL	DL/AC058	AC058 - Laxmi Nagar
+DL	DL/AC059	AC059 - Vishwas Nagar
+DL	DL/AC060	AC060 - Krishna Nagar
+DL	DL/AC061	AC061 - Gandhi Nagar
+DL	DL/AC062	AC062 - Shahdara
+DL	DL/AC063	AC063 - Seemapuri
+DL	DL/AC064	AC064 - Rohtas Nagar
+DL	DL/AC065	AC065 - Seelam Pur
+DL	DL/AC066	AC066 - Ghonda
+DL	DL/AC067	AC067 - Babarpur
+DL	DL/AC068	AC068 - Gokalpur
+DL	DL/AC069	AC069 - Mustafabad
+DL	DL/AC070	AC070 - Karawal Nagar
