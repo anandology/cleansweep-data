@@ -1,3 +1,2 @@
 KL	KL/ZN01	North Kerala
-KL	KL/ZN02	Central Kerala
-KL	KL/ZN03	South Kerala
+KL	KL/ZN02	South Kerala
