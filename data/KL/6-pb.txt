@@ -605,8 +605,8 @@ KL/AC004/PX101	KL/AC004/PB0138	PB0138 - Sri Narayana T T I Nileshwaram (North Po
 KL/AC004/PX102	KL/AC004/PB0139	PB0139 - Govt. Fisheries U P S Kanhangad (North Portion)
 KL/AC004/PX102	KL/AC004/PB0140	PB0140 - Govt. Fisheries U P S Kanhangad (South Portion)
 KL/AC004/PX103	KL/AC004/PB0141	PB0141 - Govt. U P S Puthukkai
-KL/AC004/PX067	KL/AC004/PB0142	PB0142 - Govt. High School Parappa (Main Building West Portion)
-KL/AC004/PX067	KL/AC004/PB0143	PB0143 - Govt. High School Parappa (Main Building East Portion)
+KL/AC004/PX067.1	KL/AC004/PB0142	PB0142 - Govt. High School Parappa (Main Building West Portion)
+KL/AC004/PX067.1	KL/AC004/PB0143	PB0143 - Govt. High School Parappa (Main Building East Portion)
 KL/AC004/PX104	KL/AC004/PB0144	PB0144 - A U P S Birikkulam (New Building, East Portion )
 KL/AC004/PX104	KL/AC004/PB0145	PB0145 - A U P S Birikkulam (New Building, West Portion )
 KL/AC004/PX104	KL/AC004/PB0146	PB0146 - A.U.P.S Birikkulam (North Building- West Portion)
@@ -1373,7 +1373,7 @@ KL/AC009/PX065	KL/AC009/PB0116	PB0116 - St. Joseph Lower Primary School, Cheriya
 KL/AC009/PX066	KL/AC009/PB0117	PB0117 - Rathnagiri St. Sebastian School, Midilakayam
 KL/AC009/PX067	KL/AC009/PB0118	PB0118 - Govt. Upper Primary School, Areekkamala (Eastern Side)
 KL/AC009/PX068	KL/AC009/PB0119	PB0119 - Mary Queen High School, Kudiyanmala (Western Side)
-KL/AC009/PX025	KL/AC009/PB0120	PB0120 - Bharathambika Upper Primary School, Pottanplavu
+KL/AC009/PX025.1	KL/AC009/PB0120	PB0120 - Bharathambika Upper Primary School, Pottanplavu
 KL/AC009/PX069	KL/AC009/PB0121	PB0121 - Govt. Upper Primary School, Payyavoor (Eastern Side)
 KL/AC009/PX069	KL/AC009/PB0122	PB0122 - Govt. Upper Primary School, Payyavoor (New Building)
 KL/AC009/PX070	KL/AC009/PB0123	PB0123 - Sacret Heart High School, Earood
@@ -2325,10 +2325,10 @@ KL/AC016/PX036	KL/AC016/PB0058	PB0058 - Nellur L P S
 KL/AC016/PX037	KL/AC016/PB0059	PB0059 - Govt U P S Muzhakkunnu (North Side)
 KL/AC016/PX037	KL/AC016/PB0060	PB0060 - Govt U P S Muzhakkunnu (South Side)
 KL/AC016/PX037	KL/AC016/PB0061	PB0061 - Govt U P S Muzhakkunnu (West Side)
-KL/AC016/PX038	KL/AC016/PB0062	PB0062 -  Govt H S S Pala (South Side)Pala (South Side)
-KL/AC016/PX038	KL/AC016/PB0063	PB0063 -  Govt H S S Pala (North Side)
-KL/AC016/PX038	KL/AC016/PB0064	PB0064 -  Govt H S S Pala (East Side)
-KL/AC016/PX038	KL/AC016/PB0065	PB0065 -  Govt H S S Pala (Spcial Building)
+KL/AC016/PX038	KL/AC016/PB0062	PB0062 - Govt H S S Pala (South Side)Pala (South Side)
+KL/AC016/PX038	KL/AC016/PB0063	PB0063 - Govt H S S Pala (North Side)
+KL/AC016/PX038	KL/AC016/PB0064	PB0064 - Govt H S S Pala (East Side)
+KL/AC016/PX038	KL/AC016/PB0065	PB0065 - Govt H S S Pala (Spcial Building)
 KL/AC016/PX039	KL/AC016/PB0066	PB0066 - Vilakkode Govt U P S (South Side)
 KL/AC016/PX039	KL/AC016/PB0067	PB0067 - Vilakkode Govt U P S (North Side)
 KL/AC016/PX040	KL/AC016/PB0068	PB0068 - Mubarak L P S Ayyappankav (North Side)
@@ -2845,8 +2845,8 @@ KL/AC019/PX091	KL/AC019/PB0122	PB0122 - Govt. Lower Primary School, Meppadi ( Ri
 KL/AC019/PX091	KL/AC019/PB0123	PB0123 - Govt. Lower Primary School, Meppadi ( Left Wing )
 KL/AC019/PX092	KL/AC019/PB0124	PB0124 - Govt. Higher Secondary School Meppadi
 KL/AC019/PX093	KL/AC019/PB0125	PB0125 - St. Joseph s Upper Primary School, Meppadi ( Right Wing )
-KL/AC019/PX093	KL/AC019/PB0126	PB0126 - St. Joseph s Upper Primary School, Meppadi ( Left Wing )
-KL/AC019/PX093	KL/AC019/PB0127	PB0127 - St. Joseph s Upper Primary School, Meppadi (East Building)
+KL/AC019/PX093.1	KL/AC019/PB0126	PB0126 - St. Joseph s Upper Primary School, Meppadi ( Left Wing )
+KL/AC019/PX093.1	KL/AC019/PB0127	PB0127 - St. Joseph s Upper Primary School, Meppadi (East Building)
 KL/AC019/PX094	KL/AC019/PB0128	PB0128 - Govt. Lower Primary School, Chulukka ( Right Wing )
 KL/AC019/PX094	KL/AC019/PB0129	PB0129 - Govt. Lower Primary School, Chulukka ( Left Wing )
 KL/AC019/PX095	KL/AC019/PB0130	PB0130 - Govt. Lower Primary School , Puthumala
@@ -3230,8 +3230,8 @@ KL/AC022/PX042	KL/AC022/PB0074	PB0074 - Crescent High School Vanimel ( Annex Bui
 KL/AC022/PX043	KL/AC022/PB0075	PB0075 - Vanimel M U P School ( Left side )
 KL/AC022/PX043	KL/AC022/PB0076	PB0076 - Vanimel M U P School ( Right side )
 KL/AC022/PX043	KL/AC022/PB0077	PB0077 - Vanimel M U P School ( Annex Building )
-KL/AC022/PX037	KL/AC022/PB0078	PB0078 - St.George High School Vilangad ( New Building Left Side )
-KL/AC022/PX037	KL/AC022/PB0079	PB0079 - St.George High School Vilangad ( New Building Right Side )
+KL/AC022/PX037.1	KL/AC022/PB0078	PB0078 - St.George High School Vilangad ( New Building Left Side )
+KL/AC022/PX037.1	KL/AC022/PB0079	PB0079 - St.George High School Vilangad ( New Building Right Side )
 KL/AC022/PX044	KL/AC022/PB0080	PB0080 - Govt : L P School Kumbalachola ( South Side )
 KL/AC022/PX045	KL/AC022/PB0081	PB0081 - Govt : Single Teacher School Thinoor ( North Side )
 KL/AC022/PX045	KL/AC022/PB0082	PB0082 - Govt : Single Teacher School Thinoor ( South Side )
@@ -6611,7 +6611,7 @@ KL/AC045/PX119	KL/AC045/PB0130	PB0130 - Aided Mappila Lower Primary School Putha
 KL/AC045/PX120	KL/AC045/PB0131	PB0131 - Mohammedeeya Madrassa Aided Lower Primary school, Chelloor
 KL/AC045/PX121	KL/AC045/PB0132	PB0132 - Aided Mapila Upper Primary School, Punnathala
 KL/AC045/PX122	KL/AC045/PB0133	PB0133 - Majmu Aa Thuskiyathul Islam High School Vettichira (Main Building)
-KL/AC045/PX111	KL/AC045/PB0134	PB0134 - Cherural High School, Kurumpathoor (L. P. Vibhagam)
+KL/AC045/PX111.1	KL/AC045/PB0134	PB0134 - Cherural High School, Kurumpathoor (L. P. Vibhagam)
 KL/AC045/PX123	KL/AC045/PB0135	PB0135 - Aided Mappila Lower Primary School, Poolamangalam
 KL/AC045/PX124	KL/AC045/PB0136	PB0136 - Govt. Upper Primary School, Koodasseri Southern Building
 KL/AC045/PX125	KL/AC045/PB0137	PB0137 - Govt. Upper Primary School, Koodasseri Northern Building
@@ -11282,7 +11282,7 @@ KL/AC077/PX031	KL/AC077/PB0058	PB0058 - S.N.D.P.Sagha no.113 Office Building,Thi
 KL/AC077/PX032	KL/AC077/PB0059	PB0059 - Govt. Lower Primary School,Panaikulam
 KL/AC077/PX032	KL/AC077/PB0060	PB0060 - Govt. Lower Primary School,Panaikulam
 KL/AC077/PX032	KL/AC077/PB0061	PB0061 - Govt. Lower Primary School,Panaikulam
-KL/AC077/PX032	KL/AC077/PB0062	PB0062 - Govt. Lower Primary School,Panaikulam
+KL/AC077/PX032.1	KL/AC077/PB0062	PB0062 - Govt. Lower Primary School,Panaikulam
 KL/AC077/PX033	KL/AC077/PB0063	PB0063 - Govt.High School ,Kadungalloor
 KL/AC077/PX033	KL/AC077/PB0064	PB0064 - Govt.High School ,Kadungalloor
 KL/AC077/PX034	KL/AC077/PB0065	PB0065 - Govt.Lower Primary School ,Kadungalloor
@@ -11364,7 +11364,7 @@ KL/AC077/PX080	KL/AC077/PB0140	PB0140 - Thrikkakkara North Village Office Buildi
 KL/AC077/PX081	KL/AC077/PB0141	PB0141 - Isathul Islam Madrassa Toll Gate ,Edappally
 KL/AC077/PX082	KL/AC077/PB0142	PB0142 - HMT High School
 KL/AC077/PX082	KL/AC077/PB0143	PB0143 - HMT High School
-KL/AC077/PX051	KL/AC077/PB0144	PB0144 - Govt. Lower Primary School ,
+KL/AC077/PX051.1	KL/AC077/PB0144	PB0144 - Govt. Lower Primary School ,
 KL/AC077/PX083	KL/AC077/PB0145	PB0145 - Govt. Lower Primary School ,Thevakkal Kalamassery(
 KL/AC077/PX083	KL/AC077/PB0146	PB0146 - Govt. Lower Primary School ,Thevakkal Kalamassery(
 KL/AC077/PX084	KL/AC077/PB0147	PB0147 - Marthomma Bhavanam
@@ -11562,7 +11562,7 @@ KL/AC079/PX014	KL/AC079/PB0026	PB0026 - Govt. Girls L.P.S.
 KL/AC079/PX015	KL/AC079/PB0027	PB0027 - Ramavarma Union H.S
 KL/AC079/PX015	KL/AC079/PB0028	PB0028 - Ramavarma Union H.S
 KL/AC079/PX016	KL/AC079/PB0029	PB0029 - N.E.S. Block Office
-KL/AC079/PX015	KL/AC079/PB0030	PB0030 - Ramavarma Union H.S
+KL/AC079/PX015.1	KL/AC079/PB0030	PB0030 - Ramavarma Union H.S
 KL/AC079/PX017	KL/AC079/PB0031	PB0031 - St. John’s L.P.S. Manappilly
 KL/AC079/PX018	KL/AC079/PB0032	PB0032 - St. Grigaries U.P.S.(
 KL/AC079/PX018	KL/AC079/PB0033	PB0033 - St. Grigaries U.P.S.
@@ -11631,7 +11631,7 @@ KL/AC079/PX046	KL/AC079/PB0095	PB0095 - Govt.Fisherie’s L.P.S
 KL/AC079/PX047	KL/AC079/PB0096	PB0096 - Mulavukadu Village Office Building
 KL/AC079/PX048	KL/AC079/PB0097	PB0097 - St.Joseph U.P.S
 KL/AC079/PX049	KL/AC079/PB0098	PB0098 - Mulavukadu Panchayath Building
-KL/AC079/PX030	KL/AC079/PB0099	PB0099 - St.Joseph L.P.S
+KL/AC079/PX030.1	KL/AC079/PB0099	PB0099 - St.Joseph L.P.S
 KL/AC079/PX050	KL/AC079/PB0100	PB0100 - Hidayathul Isalm H.S
 KL/AC079/PX050	KL/AC079/PB0101	PB0101 - Hidayathul Isalm H.S
 KL/AC079/PX050	KL/AC079/PB0102	PB0102 - Hidayathul Isalm H.S
@@ -11653,8 +11653,8 @@ KL/AC079/PX057	KL/AC079/PB0117	PB0117 - I.I.V.U.P.S
 KL/AC079/PX058	KL/AC079/PB0118	PB0118 - St. Peters L.P.S.
 KL/AC079/PX058	KL/AC079/PB0119	PB0119 - St. Peters L.P.S.
 KL/AC079/PX058	KL/AC079/PB0120	PB0120 - St. Peters L.P.S.
-KL/AC079/PX003	KL/AC079/PB0121	PB0121 - St.Mary’s L.P.S.
-KL/AC079/PX003	KL/AC079/PB0122	PB0122 - St.Mary’s L.P.S.
+KL/AC079/PX003.1	KL/AC079/PB0121	PB0121 - St.Mary’s L.P.S.
+KL/AC079/PX003.1	KL/AC079/PB0122	PB0122 - St.Mary’s L.P.S.
 KL/AC079/PX059	KL/AC079/PB0123	PB0123 - Santa Cruz H.S.
 KL/AC079/PX059	KL/AC079/PB0124	PB0124 - Santa Cruz H.S.
 KL/AC079/PX060	KL/AC079/PB0125	PB0125 - Govt.U.P.S.,
@@ -13082,7 +13082,7 @@ KL/AC089/PX073	KL/AC089/PB0102	PB0102 - St.Thomas U.P.S, Erattayar (north buildi
 KL/AC089/PX074	KL/AC089/PB0103	PB0103 - St.Thomas U.P.School, Erattayar (north building, west portion)
 KL/AC089/PX075	KL/AC089/PB0104	PB0104 - Christraj High School, Valiyathovala
 KL/AC089/PX075	KL/AC089/PB0105	PB0105 - Christraj High School, Valiyathovala (Right Portion)
-KL/AC089/PX064	KL/AC089/PB0106	PB0106 - St.Mary's L.P.S. Chembalam (right portion)
+KL/AC089/PX064.1	KL/AC089/PB0106	PB0106 - St.Mary's L.P.S. Chembalam (right portion)
 KL/AC089/PX076	KL/AC089/PB0107	PB0107 - P.W.D.Asst. Engineer's Office Kallar
 KL/AC089/PX077	KL/AC089/PB0108	PB0108 - Govt. Higher Secondary School, Kallar (west building, left portion)
 KL/AC089/PX078	KL/AC089/PB0109	PB0109 - Govt. H.S.S.. Kallar (middle portion)
@@ -13097,7 +13097,7 @@ KL/AC089/PX085	KL/AC089/PB0117	PB0117 - Govt. L.P.S Thirdcamp(south building)
 KL/AC089/PX086	KL/AC089/PB0118	PB0118 - Anganvadi Biulding Thookupalam
 KL/AC089/PX087	KL/AC089/PB0119	PB0119 - Co-operative Society U.P.S. Chottupara (north portion)
 KL/AC089/PX087	KL/AC089/PB0120	PB0120 - Co-operative society U.P.S Chottupara (south portion)
-KL/AC089/PX050	KL/AC089/PB0121	PB0121 - Rajendraprasad Memmorial L.P.S (east building)
+KL/AC089/PX050.1	KL/AC089/PB0121	PB0121 - Rajendraprasad Memmorial L.P.S (east building)
 KL/AC089/PX088	KL/AC089/PB0122	PB0122 - S.H.High School Ramakkalmedu(right portion)
 KL/AC089/PX088	KL/AC089/PB0123	PB0123 - S.H.High School Ramakkalmedu (middle portion)
 KL/AC089/PX088	KL/AC089/PB0124	PB0124 - S.H.High School Ramakkalmedu (left portion)
@@ -18550,7 +18550,7 @@ KL/AC122/PX065	KL/AC122/PB0099	PB0099 - L. P. S., Parayattu (Western Portion)
 KL/AC122/PX066	KL/AC122/PB0100	PB0100 - Govt. L. P. S., Keezhuthoni
 KL/AC122/PX067	KL/AC122/PB0101	PB0101 - P. H. Centre,Chunda,Ettiva(New Building)
 KL/AC122/PX067	KL/AC122/PB0102	PB0102 - P. H. Centre,Chunda,Ettiva(Old Building)
-KL/AC122/PX061	KL/AC122/PB0103	PB0103 - L. P. S., Mukkada(Northern Building)
+KL/AC122/PX061.1	KL/AC122/PB0103	PB0103 - L. P. S., Mukkada(Northern Building)
 KL/AC122/PX068	KL/AC122/PB0104	PB0104 - Govt. U. P. S., Charipparambu (Southern Portion)
 KL/AC122/PX068	KL/AC122/PB0105	PB0105 - Govt. U. P. S., Charipparambu (Northern Portion)
 KL/AC122/PX069	KL/AC122/PB0106	PB0106 - U. P. S., Kattampally (Western Portion)
@@ -20232,9 +20232,9 @@ KL/AC133/PX005	KL/AC133/PB0022	PB0022 - Govt. GHSS Peroorkada.(Northern Portion 
 KL/AC133/PX005	KL/AC133/PB0023	PB0023 - Govt. GHSS Peroorkada.(New Building)
 KL/AC133/PX006	KL/AC133/PB0024	PB0024 - PS Nadarajapillai Memorial HSS Peroorkada.(HSBuilding)
 KL/AC133/PX003	KL/AC133/PB0025	PB0025 - Govt. UPS Kudappanakunnu.(Southern Portion of Main Building)
-KL/AC133/PX006	KL/AC133/PB0026	PB0026 - PS Nadarajapillai Memorial HSS Peroorkada.(Northhern Portion of LP Building)
-KL/AC133/PX006	KL/AC133/PB0027	PB0027 - PS Nadarajapillai Memorial HSS Peroorkada.(Middle Portion of LP Building)
-KL/AC133/PX006	KL/AC133/PB0028	PB0028 - PS Nadarajapillai Memorial HSS Peroorkada.(Southern Portion of LP Building)
+KL/AC133/PX006.1	KL/AC133/PB0026	PB0026 - PS Nadarajapillai Memorial HSS Peroorkada.(Northhern Portion of LP Building)
+KL/AC133/PX006.1	KL/AC133/PB0027	PB0027 - PS Nadarajapillai Memorial HSS Peroorkada.(Middle Portion of LP Building)
+KL/AC133/PX006.1	KL/AC133/PB0028	PB0028 - PS Nadarajapillai Memorial HSS Peroorkada.(Southern Portion of LP Building)
 KL/AC133/PX007	KL/AC133/PB0029	PB0029 - PS Nadarajapillai Memorial HSS Peroorkada.(South Shed]
 KL/AC133/PX008	KL/AC133/PB0030	PB0030 - Manikandeswaram Sivakshethra Sadhyalayam.
 KL/AC133/PX009	KL/AC133/PB0031	PB0031 - FLMSC LPS Vettikonam.(East Portion)
@@ -21010,10 +21010,10 @@ KL/AC138/PX023	KL/AC138/PB0036	PB0036 - Kollamkonam SNDP Hall
 KL/AC138/PX016	KL/AC138/PB0037	PB0037 - Government Upper Primary School, Vilappilsala (Main Building, Ground level Middle Portion)
 KL/AC138/PX018	KL/AC138/PB0038	PB0038 - NSS High School, Chowalloor
 KL/AC138/PX018	KL/AC138/PB0039	PB0039 - NSS High School, Chowalloor( North building West portion)
-KL/AC138/PX011	KL/AC138/PB0040	PB0040 - St. Xavier s High School, Peyad (Main Building, Middle Portion)
-KL/AC138/PX011	KL/AC138/PB0041	PB0041 - St.Xavier s High School, Peyad (Main Building West Portion)
-KL/AC138/PX011	KL/AC138/PB0042	PB0042 - St.Xavier s High School, Peyad (Noth Building West Portion)
-KL/AC138/PX011	KL/AC138/PB0043	PB0043 - St. Xavier s High School, Peyad (Main Building East Portion)
+KL/AC138/PX011.1	KL/AC138/PB0040	PB0040 - St. Xavier s High School, Peyad (Main Building, Middle Portion)
+KL/AC138/PX011.1	KL/AC138/PB0041	PB0041 - St.Xavier s High School, Peyad (Main Building West Portion)
+KL/AC138/PX011.1	KL/AC138/PB0042	PB0042 - St.Xavier s High School, Peyad (Noth Building West Portion)
+KL/AC138/PX011.1	KL/AC138/PB0043	PB0043 - St. Xavier s High School, Peyad (Main Building East Portion)
 KL/AC138/PX024	KL/AC138/PB0044	PB0044 - St Antony s U P S Kattakode (West Portion)
 KL/AC138/PX024	KL/AC138/PB0045	PB0045 - St Antony s U P S Kattakode (South Portion)
 KL/AC138/PX025	KL/AC138/PB0046	PB0046 - Govt H S S Kulathummel (West Building South Portion)
@@ -21384,7 +21384,7 @@ KL/AC140/PX085	KL/AC140/PB0102	PB0102 - BM LPS Valiyavila ( East West Building, 
 KL/AC140/PX085	KL/AC140/PB0103	PB0103 - BM LPS Valiyavila ( South North Building, South Portion)
 KL/AC140/PX085	KL/AC140/PB0104	PB0104 - BM LPS Valiyavila ( West Building , West Portion)
 KL/AC140/PX086	KL/AC140/PB0105	PB0105 - LMS LPS Kakkaravila (South Portion)
-KL/AC140/PX074	KL/AC140/PB0106	PB0106 - Gandhi Memmorial UPS Kulathoor (East Portion)
+KL/AC140/PX074.1	KL/AC140/PB0106	PB0106 - Gandhi Memmorial UPS Kulathoor (East Portion)
 KL/AC140/PX087	KL/AC140/PB0107	PB0107 - Govt. HS Kulathoor (South Portion)
 KL/AC140/PX087	KL/AC140/PB0108	PB0108 - Govt. HS Kulathoor (North Portion)
 KL/AC140/PX086	KL/AC140/PB0109	PB0109 - LMS LPS Kakkaravila
