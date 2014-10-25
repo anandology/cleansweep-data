@@ -4,6 +4,6 @@ STATE	State
 ZONE	Zone
 DISTRICT	District
 AC	Assembly Constituency
-WARD	Ward
+LB	Local Body
 PX	Polling Center
 PB	Polling Booth
