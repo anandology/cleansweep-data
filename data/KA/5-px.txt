@@ -284,7 +284,7 @@ KA/AC151/WA087	KA/AC151/PX098	PX098 - New Oxford School L B S Nagar
 KA/AC151/WA081	KA/AC151/PX099	PX099 - Bharathiya Gramina Mahila Mandali Vibhuthipura
 KA/AC151/WA087	KA/AC151/PX100	PX100 - Vimanapura High School East Township Vimanapura
 KA/AC151/WA056	KA/AC151/PX101	PX101 - New pratham public school pai layout Bangaluru 16
-KA/AC152/G03	KA/AC152/PX001	PX001 - Govt Lower Primary School Thimmasandra
+KA/AC152	KA/AC152/PX001	PX001 - Govt Lower Primary School Thimmasandra
 KA/AC152	KA/AC152/PX002	PX002 - Govt Higher Primary School Therahunase
 KA/AC152	KA/AC152/PX003	PX003 - Govt Higher Primary School Kuduregere
 KA/AC152	KA/AC152/PX004	PX004 - Govt Lower Primary School Gadenahalli
@@ -292,9 +292,9 @@ KA/AC152	KA/AC152/PX005	PX005 - Govt Higher Primary School Navarathna Agrahara
 KA/AC152	KA/AC152/PX006	PX006 - Govt Higher Primary School Tharabanahalli
 KA/AC152	KA/AC152/PX007	PX007 - Govt Higher Primary School Channahalli
 KA/AC152	KA/AC152/PX008	PX008 - Govt Lower Primary School Baiyanahalli
-KA/AC152/G02	KA/AC152/PX009	PX009 - Govt Higher Primary School Chikkajala 1 Chikkajala
-KA/AC152/G02	KA/AC152/PX010	PX010 - Govt Higher Primar School Chikkajala Chikkajala
-KA/AC152/G01	KA/AC152/PX011	PX011 - Govt Higher Primary School Doddajala
+KA/AC152	KA/AC152/PX009	PX009 - Govt Higher Primary School Chikkajala 1 Chikkajala
+KA/AC152	KA/AC152/PX010	PX010 - Govt Higher Primar School Chikkajala Chikkajala
+KA/AC152	KA/AC152/PX011	PX011 - Govt Higher Primary School Doddajala
 KA/AC152	KA/AC152/PX012	PX012 - Govt Higher Lower School Doddajala
 KA/AC152	KA/AC152/PX013	PX013 - Govt Lower Primary School Shettigere
 KA/AC152	KA/AC152/PX014	PX014 - Govt Lower Primary School Beguru
@@ -310,7 +310,7 @@ KA/AC152	KA/AC152/PX023	PX023 - Govt Lower Primary School Vidyanagar Cross
 KA/AC152	KA/AC152/PX024	PX024 - Govt Model Primary School Bettahalasuru
 KA/AC152	KA/AC152/PX025	PX025 - Govt Higher Primary School Sonnapanahalli
 KA/AC152	KA/AC152/PX026	PX026 - Govt Higher Primary School Sonnappanahalli
-KA/AC152/G03	KA/AC152/PX027	PX027 - Govt Higher Primary School Hunasamaranahalli
+KA/AC152	KA/AC152/PX027	PX027 - Govt Higher Primary School Hunasamaranahalli
 KA/AC152	KA/AC152/PX028	PX028 - Govt Lower Primary School Kodagalahatti
 KA/AC152	KA/AC152/PX029	PX029 - Govt Lower Primary School Suggatta
 KA/AC152	KA/AC152/PX030	PX030 - Govt Lower Primary School Hosahalli
