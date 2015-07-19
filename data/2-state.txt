@@ -1,5 +1,1 @@
-RG01	MP	Madhya Pradesh
-RG01	DL	Delhi
-RG03	KA	Karnataka
-RG03	KL	Kerala
-RG05    MH      Maharashtra
+-	DL	Delhi

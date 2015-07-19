@@ -1,5 +1,0 @@
-KA	KA/Z01	Z01 - Bangalore
-KA	KA/Z02	Z02 - Tumkur, etc
-KA	KA/Z03	Z03 - Dakshina Kannada, etc
-KA	KA/Z04	Z04 - Hassan, etc
-KA	KA/Z05	Z05 - Belgaum, etc
