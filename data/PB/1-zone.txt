@@ -1,0 +1,13 @@
+PB	PB/Z01	Z01 - Gurdaspur
+PB	PB/Z02	Z02 - Amritsar
+PB	PB/Z03	Z03 - Khadoor Sahib
+PB	PB/Z04	Z04 - Jalandhar
+PB	PB/Z05	Z05 - Hoshiarpur 
+PB	PB/Z06	Z06 - Anandpur Sahib
+PB	PB/Z07	Z07 - Ludhiana
+PB	PB/Z08	Z08 - Fatehgarh Sahib
+PB	PB/Z09	Z09 - Faridkot
+PB	PB/Z10	Z10 - Firozpur 
+PB	PB/Z11	Z11 - Bathinda
+PB	PB/Z12	Z12 - Sangrur
+PB	PB/Z13	Z13 - Patiala

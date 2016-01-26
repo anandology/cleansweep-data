@@ -1,0 +1,39 @@
+PB/Z01	PB/Z01/S01	S01 - Gurdaspur A
+PB/Z01	PB/Z01/S02	S02 - Gurdaspur B
+PB/Z01	PB/Z01/S03	S03 - Gurdaspur C
+PB/Z02	PB/Z02/S04	S04 - Amritsar A
+PB/Z02	PB/Z02/S05	S05 - Amritsar B
+PB/Z02	PB/Z02/S06	S06 - Amritsar C
+PB/Z03	PB/Z03/S07	S07 - Khadoor Sahib A
+PB/Z03	PB/Z03/S08	S08 - Khadoor Sahib B
+PB/Z03	PB/Z03/S09	S09 - Khadoor Sahib C
+PB/Z04	PB/Z04/S10	S10 - Jalandhar A
+PB/Z04	PB/Z04/S11	S11 - Jalandhar B
+PB/Z04	PB/Z04/S12	S12 - Jalandhar C
+PB/Z05	PB/Z05/S13	S13 - Hoshiarpur A
+PB/Z05	PB/Z05/S14	S14 - Hoshiarpur B
+PB/Z05	PB/Z05/S15	S15 - Hoshiarpur C
+PB/Z06	PB/Z06/S16	S16 - Anandpur Sahib A
+PB/Z06	PB/Z06/S17	S17 - Anandpur Sahib B
+PB/Z06	PB/Z06/S18	S18 - Anandpur Sahib C
+PB/Z07	PB/Z07/S19	S19 - Ludhiana A
+PB/Z07	PB/Z07/S20	S20 - Ludhiana B
+PB/Z07	PB/Z07/S21	S21 - Ludhiana C
+PB/Z08	PB/Z08/S22	S22 - Fatehgarh Sahib A
+PB/Z08	PB/Z08/S23	S23 - Fatehgarh Sahib B
+PB/Z08	PB/Z08/S24	S24 - Fatehgarh Sahib C
+PB/Z09	PB/Z09/S25	S25 - Faridkot A
+PB/Z09	PB/Z09/S26	S26 - Faridkot B
+PB/Z09	PB/Z09/S27	S27 - Faridkot C
+PB/Z10	PB/Z10/S28	S28 - Firozpur A
+PB/Z10	PB/Z10/S29	S29 - Firozpur B
+PB/Z10	PB/Z10/S30	S30 - Firozpur C
+PB/Z11	PB/Z11/S31	S31 - Bathinda A
+PB/Z11	PB/Z11/S32	S32 - Bathinda B
+PB/Z11	PB/Z11/S33	S33 - Bathinda C
+PB/Z12	PB/Z12/S34	S34 - Sangrur A
+PB/Z12	PB/Z12/S35	S35 - Sangrur B
+PB/Z12	PB/Z12/S36	S36 - Sangrur C
+PB/Z13	PB/Z13/S37	S37 - Patiala A
+PB/Z13	PB/Z13/S38	S38 - Patiala B
+PB/Z13	PB/Z13/S39	S39 - Patiala C
