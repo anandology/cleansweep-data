@@ -1,0 +1,13 @@
+UT	UT/DT01	DT01 - Hardwar
+UT	UT/DT02	DT02 - Nainital
+UT	UT/DT03	DT03 - Almora
+UT	UT/DT04	DT04 - Udhamsingh Nagar
+UT	UT/DT05	DT05 - Pithoragarh
+UT	UT/DT06	DT06 - Bageshwar
+UT	UT/DT07	DT07 - Champawat
+UT	UT/DT08	DT08 - Chamoli
+UT	UT/DT09	DT09 - Uttarkashi
+UT	UT/DT10	DT10 - Rudraprayag
+UT	UT/DT11	DT11 - Tehri Garhwal
+UT	UT/DT12	DT12 - Pauri Garhwal
+UT	UT/DT13	DT13 - Dehradun
