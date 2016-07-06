@@ -1,0 +1,24 @@
+JH	JH/DT01	DT01 - Sahebganj
+JH	JH/DT02	DT02 - Pakur
+JH	JH/DT03	DT03 - Dumka
+JH	JH/DT04	DT04 - Jamtara
+JH	JH/DT05	DT05 - Deoghar
+JH	JH/DT06	DT06 - Godda
+JH	JH/DT07	DT07 - Kodarma
+JH	JH/DT08	DT08 - Hazaribagh
+JH	JH/DT09	DT09 - Ramgarh
+JH	JH/DT10	DT10 - Chatra
+JH	JH/DT11	DT11 - Giridih
+JH	JH/DT12	DT12 - Bokaro
+JH	JH/DT13	DT13 - Dhanbad
+JH	JH/DT14	DT14 - East Singhbhum
+JH	JH/DT15	DT15 - Saraikela
+JH	JH/DT16	DT16 - West Singhbhum
+JH	JH/DT17	DT17 - Ranchi
+JH	JH/DT18	DT18 - Khunti
+JH	JH/DT19	DT19 - Gumla
+JH	JH/DT20	DT20 - Simdega
+JH	JH/DT21	DT21 - Lohardaga
+JH	JH/DT22	DT22 - Latehar
+JH	JH/DT23	DT23 - Palamu
+JH	JH/DT24	DT24 - Garhwa
